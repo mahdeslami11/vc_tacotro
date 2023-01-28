@@ -1,0 +1,7 @@
+The system claims to be able to imitate the human voice very accurately. This system
+is the second generation of this technology offered by Google and consists of 2 deep
+neural networks - deep neural networks is the first network that is able to convert text
+to spectrogram (PDF) - a visual way to show Audio frequencies over time. In the next
+step, the spectrogram is fed with WaveNet. WaveNet is a system developed by
+Alphabet's artificial intelligence testing center, this system can read the presented
+tables and generate the desired audio elements based on it.
